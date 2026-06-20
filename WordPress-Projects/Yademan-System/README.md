@@ -1,21 +1,44 @@
 # Yademan System
 
-## Overview
-Corporate website for managing services and business content.
+## 🧠 Project Overview
+A corporate website designed for managing business services and presenting company information in a structured and modern way.
 
-## Tech Stack
+---
+
+## 🎯 Objectives
+- Build a scalable WordPress-based business website
+- Implement dynamic content structure using JetEngine
+- Create a user-friendly UI with Elementor
+
+---
+
+## 🛠 Tech Stack
 - WordPress
 - Elementor
 - JetEngine
-- WooCommerce
+- WooCommerce (if needed)
 
-## Features
-- Dynamic content system
+---
+
+## ⚙️ Features
+- Dynamic service pages
 - Custom layouts
-- Service management pages
+- Responsive design
+- Modular content structure
 
-## Status
+---
+
+## 📸 Screenshots
+(Add screenshots in /Screenshots folder)
+
+---
+
+## 👨‍💻 My Role
+- Full website development
+- UI implementation
+- Dynamic content structure design
+
+---
+
+## 📊 Status
 In Progress
-
-## My Role
-Full development (frontend + backend setup)
