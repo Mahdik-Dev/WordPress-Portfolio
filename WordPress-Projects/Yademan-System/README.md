@@ -1,7 +1,7 @@
 # Yademan System
 
 ## 🧠 Project Overview
-A corporate website designed for managing business services and presenting company information in a structured and modern way.
+A corporate website designed for managing business services and presenting company information and Sell in a structured and modern way.
 
 ---
 
@@ -15,8 +15,7 @@ A corporate website designed for managing business services and presenting compa
 ## 🛠 Tech Stack
 - WordPress
 - Elementor
-- JetEngine
-- WooCommerce (if needed)
+- WooCommerce
 
 ---
 
@@ -25,6 +24,10 @@ A corporate website designed for managing business services and presenting compa
 - Custom layouts
 - Responsive design
 - Modular content structure
+- Unique CRM
+- Connectd to Torob
+- Connectd to BaSalam
+- Connectd to SnapShop
 
 ---
 
